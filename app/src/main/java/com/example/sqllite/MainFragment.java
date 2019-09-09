@@ -93,7 +93,7 @@ public class MainFragment extends Fragment implements View.OnClickListener, Recy
             edtName.setText("");
             edtName.setFocusableInTouchMode(true);
             edtAge.setText("");
-            edtAge.setFocusable(true);
+            edtName.setFocusable(true);
             btnSubmit.setText("Submit");
         }
     }
